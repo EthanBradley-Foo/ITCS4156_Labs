@@ -1,15 +1,17 @@
-Intro to Machine Learning Course Labs
-Welcome to the repository holding all the labs I completed during my Intro to Machine Learning course. This repository includes various projects and assignments that demonstrate different machine learning concepts and techniques. Each lab folder contains the respective lab's code, data, and a brief description.
+<h1>Intro to Machine Learning [ITCS-4156] -  Labs</h1>
 
-Table of Contents
-Course Overview
-Lab List
-Acknowledgements
+<p>Welcome to the repository holding all the labs I completed during my Intro to Machine Learning course. This repository includes various projects and assignments that demonstrate different machine learning concepts and techniques. Each lab folder contains the respective lab's code, data, and a brief description.</p>
+<hr class="solid">
+<h3>Table of Contents</h3>
+- Course Overview<br>
+- Lab List<br>
+- Acknowledgements
+<hr class="solid">
+<h3>Course Overview</h3>
+<p>This course provides a comprehensive introduction to machine learning, covering fundamental concepts and practical implementations. Throughout the course, we explored various machine learning algorithms and techniques through hands-on labs and projects.</p>
+<hr class="solid">
+<h2>Lab List</h2>
 
-Course Overview
-This course covers fundamental concepts in machine learning, including supervised and unsupervised learning, model evaluation, and practical implementations. The labs provide hands-on experience with various machine learning algorithms and tools.
-
-Lab List
 Lab 0: Introduction to Python for Machine Learning
 - Learn and practice basic Python programming skills.
 - Libraries: NumPy, sklearn, Pandas, Matplotlib.
@@ -50,10 +52,10 @@ Lab 8: Multi-Layer Neural Networks and Non-linear Classification
 - Explore classification problems.
 - Investigate systematic hyper-parameter tuning using GridSearchCV from Sklearn
 - Dataset: Sign Language MNIST (Kaggle)
-
-Acknowledgements
-Thanks to the course instructor Dr. Xiang Zhang for his guidance and resources.
-UC Irvine Machine Learning Repository for forest fires dataset.
-Kaggle for Iris Flower dataset and Sign Language MNIST dataset.
-
+<hr class="solid">
+<h2>Acknowledgements</h2>
+Thanks to the course instructor Dr. Xiang Zhang for his guidance and resources.<br>
+UC Irvine Machine Learning Repository for forest fires dataset.<br>
+Kaggle for Iris Flower dataset and Sign Language MNIST dataset.<br>
+<br>
 Feel free to reach out if you have any questions or suggestions!
