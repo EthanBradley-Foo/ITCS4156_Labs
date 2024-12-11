@@ -24,7 +24,7 @@ Lab 1: Data Preparation and Exploration
 - Data cleaning, normalization, and transformation.
 - Handling missing values and categorical data.
 
-Lab 2: Linear Classification
+Lab 2: Linear Regression
 - First machine learning models (OLS & LMS).
 - Model evaluation metrics (MSE).
 - Dataset: Forestfire Dataset (UC Irvine Machine Learning Repository)
