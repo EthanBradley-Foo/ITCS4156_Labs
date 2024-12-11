@@ -1,7 +1,3 @@
-<p>Currently submitting and uploading all related coursework</p>
-<h1>WORK IN PROGRESS</h1>
-
-
 <h1>Intro to Machine Learning [ITCS-4156] -  Labs</h1>
 
 <p>Welcome to the repository holding all the labs I completed during my Intro to Machine Learning course. This repository includes various projects and assignments that demonstrate different machine learning concepts and techniques. Each lab folder contains the respective lab's code, data, and a brief description.</p>
